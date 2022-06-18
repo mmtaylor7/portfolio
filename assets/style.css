@@ -63,14 +63,19 @@ ul {
     
 }
 
+.left-nav {
+    display: flex;
+
+}
+
 .logo:hover {
     box-shadow: 1px 1px 1px 1px rgb(43, 40, 40);
 }
 
 .name {
     display: flex;
-    margin-right: 450px;
     align-items: center;
+    padding-left: 15px;
 }
 .nav-links {
     list-style: none;
@@ -80,7 +85,7 @@ ul {
 .nav-links li {
     
     display: inline-block;
-    padding: 0px 20-px;
+    
     
 }
 
