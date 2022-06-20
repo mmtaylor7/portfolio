@@ -113,12 +113,43 @@ ul {
 .welcome-text {
    font-size: 125px;
    color: #ff5031;
+   text-align: center;
   
 }
 
 .welcome-message {
     font-size: 45px;
     color:#3c2c5b;
+    text-align: center;
 }
+
+.about-me-div {
+    background-color: #f6f2ff;
+    width: 100vw;
+    height: calc(100vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.about-me-image {
+    width: 400px;
+    height: 400px;
+}
+
+.about-me-text {
+   font-size: 125px;
+   color: #ff5031;
+   text-align: center;
+  
+}
+
+.about-me-message {
+    font-size: 35px;
+    color:#3c2c5b;
+    text-align: center;
+}
+
 
  
