@@ -9,6 +9,9 @@
     color: #3c2c5b;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 li, a {
     font-weight: 500;
