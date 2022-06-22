@@ -103,6 +103,10 @@ ul {
     font-size: larger;
 }
 
+.padding {
+    padding-right: 50px;
+    padding-left: 50px;
+}
 .landing-div {
     background-color: #f6f2ff;
     width: 100vw;
@@ -133,8 +137,9 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
+
+
 
 .about-me-image {
     width: 400px;
@@ -163,11 +168,41 @@ ul {
     width: 100vw;
     height: calc(100vh);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+   
     
 }
 
+.apps-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80vw;
+    justify-content: space-between;
+}
+
+.main-app {
+    height: 280px;
+    width: 100%;
+    border-style: solid;
+    background-color: green;
+    justify-content: center;
+    align-items:center;
+    
+}
+
+.app {
+    height: 300px;
+    width: 30%;
+    border-style: solid;
+    border:#3c2c5b;
+    flex-direction: row;
+    border: 1px solid black;
+    margin-top: 20px;
+}
 .my-work-image {
     width: 400px;
     height: 400px;
