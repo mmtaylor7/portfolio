@@ -139,14 +139,11 @@ ul {
     justify-content: center;
 }
 
-
-
 .about-me-image {
     width: 400px;
     height: 400px;
     border-style: solid;
     border-color: #61ccff;
-    border-weight: 10px;
     border-radius: 15px 50px 30px;
 }
 
@@ -188,7 +185,7 @@ ul {
     height: 280px;
     width: 100%;
     border-style: solid;
-    background-image: url("./Screen\ Shot\ 2022-06-21\ at\ 8.58.32\ PM.png");
+    background-image: url("./Horisen\ placeholder.png");
     background-size: contain;
     justify-content: center;
     align-items:center;
@@ -206,25 +203,27 @@ ul {
 }
 
 .second-project { 
-    background-image: url("./Screen\ Shot\ 2022-06-21\ at\ 9.05.48\ PM.png");
-    background-size: contain;
+    background-image: url("./placeholder.png");
+    background-size: cover;
+    
 }
 
 .third-project { 
-    background-image: url("./Screen\ Shot\ 2022-06-21\ at\ 9.12.06\ PM.png");
-    background-size: contain;
+    background-image: url("./placeholder.png");
+    background-size: cover;
+    
 }
 
 .fourth-project { 
-    background-image: url("./Screen\ Shot\ 2022-06-21\ at\ 9.14.54\ PM.png");
-    background-size: contain;
+    background-image: url("./placeholder.png");
+    background-size: cover;
+  
 }
 .my-work-image {
     width: 400px;
     height: 400px;
     border-style: solid;
     border-color: #61ccff;
-    border-weight: 10px;
     border-radius: 15px 50px 30px;
 }
 
@@ -256,7 +255,7 @@ ul {
     height: 400px;
     border-style: solid;
     border-color: #61ccff;
-    border-weight: 10px;
+
     border-radius: 15px 50px 30px;
 }
 
@@ -288,7 +287,6 @@ ul {
     height: 400px;
     border-style: solid;
     border-color: #61ccff;
-    border-weight: 10px;
     border-radius: 15px 50px 30px;
 }
 
