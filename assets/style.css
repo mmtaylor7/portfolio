@@ -28,7 +28,6 @@ header {
     justify-content: space-between;
     padding-right: 20px;
     padding-left: 20px;
-    
 }
 
 .image-wrapper {
@@ -48,10 +47,7 @@ ul {
     width: 575px;
     display: flex;
     justify-content: space-between;
-}
 
-.name {
-    justify-content: left;
 }
 
 .logo {
@@ -79,6 +75,7 @@ ul {
     display: flex;
     align-items: center;
     padding-left: 15px;
+    justify-content: left;
 }
 .nav-links {
     list-style: none;
@@ -86,10 +83,7 @@ ul {
 }
 
 .nav-links li {
-    
     display: inline-block;
-    
-    
 }
 
 .nav-links li a {
@@ -107,6 +101,7 @@ ul {
     padding-right: 50px;
     padding-left: 50px;
 }
+
 .landing-div {
     background-color: #f6f2ff;
     width: 100vw;
@@ -114,7 +109,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 .welcome-text {
@@ -168,8 +163,6 @@ ul {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-   
-    
 }
 
 .apps-div {
@@ -189,7 +182,6 @@ ul {
     background-size: contain;
     justify-content: center;
     align-items:center;
-    
 }
 
 .app {
@@ -205,13 +197,12 @@ ul {
 .second-project { 
     background-image: url("./placeholder.png");
     background-size: cover;
-    
 }
 
 .third-project { 
     background-image: url("./placeholder.png");
     background-size: cover;
-    
+ 
 }
 
 .fourth-project { 
